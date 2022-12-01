@@ -14,10 +14,10 @@ require (
 	github.com/imdario/mergo v0.3.13
 	github.com/juju/ratelimit v1.0.1
 	github.com/r3labs/diff/v2 v2.15.1
-	github.com/shirou/gopsutil/v3 v3.22.7
+	github.com/shirou/gopsutil/v3 v3.22.11
 	github.com/spf13/viper v1.12.0
-	github.com/stretchr/testify v1.8.0
-	github.com/tklauser/go-sysconf v0.3.10 // indirect
+	github.com/stretchr/testify v1.8.1
+	github.com/tklauser/go-sysconf v0.3.11 // indirect
 	github.com/urfave/cli v1.22.9
 	github.com/xtls/xray-core v1.5.9
 	golang.org/x/net v0.0.0-20220708220712-1185a9018129
@@ -138,11 +138,11 @@ require (
 	github.com/spf13/cast v1.5.0 // indirect
 	github.com/spf13/jwalterweatherman v1.1.0 // indirect
 	github.com/spf13/pflag v1.0.5 // indirect
-	github.com/stretchr/objx v0.4.0 // indirect
+	github.com/stretchr/objx v0.5.0 // indirect
 	github.com/subosito/gotenv v1.3.0 // indirect
 	github.com/tencentcloud/tencentcloud-sdk-go/tencentcloud/common v1.0.412 // indirect
 	github.com/tencentcloud/tencentcloud-sdk-go/tencentcloud/dnspod v1.0.412 // indirect
-	github.com/tklauser/numcpus v0.5.0 // indirect
+	github.com/tklauser/numcpus v0.6.0 // indirect
 	github.com/transip/gotransip/v6 v6.17.0 // indirect
 	github.com/v2fly/ss-bloomring v0.0.0-20210312155135-28617310f63e // indirect
 	github.com/vinyldns/go-vinyldns v0.9.16 // indirect
@@ -156,7 +156,7 @@ require (
 	golang.org/x/crypto v0.0.0-20220622213112-05595931fe9d // indirect
 	golang.org/x/mod v0.6.0-dev.0.20220419223038-86c51ed26bb4 // indirect
 	golang.org/x/oauth2 v0.0.0-20220524215830-622c5d57e401 // indirect
-	golang.org/x/sys v0.0.0-20220715151400-c0bba94af5f8 // indirect
+	golang.org/x/sys v0.2.0 // indirect
 	golang.org/x/text v0.3.7 // indirect
 	golang.org/x/time v0.0.0-20220411224347-583f2d630306 // indirect
 	golang.org/x/tools v0.1.11 // indirect
